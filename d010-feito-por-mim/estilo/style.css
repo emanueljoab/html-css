@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'DigitalDisco-thin';
-    src: url(fontes/DigitalDisco-Thin.ttf);
+    src: url('../fontes/DigitalDisco-Thin.ttf');
 }
 
 * {
